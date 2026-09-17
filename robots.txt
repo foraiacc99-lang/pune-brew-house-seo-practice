@@ -1,0 +1,8 @@
+# robots.txt for Pune Brew House
+# https://punebrewhouse.com/
+
+User-agent: *
+Allow: /
+
+# XML Sitemap
+Sitemap: https://punebrewhouse.com/sitemap.xml

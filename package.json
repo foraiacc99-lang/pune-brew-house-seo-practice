@@ -1,0 +1,20 @@
+{
+  "name": "pune-brew-house-seo-practice",
+  "version": "1.0.0",
+  "description": "Realistic specialty coffee shop website built for hands-on SEO practice and deployment.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve -l 3000 .",
+    "start": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "specialty-coffee",
+    "pune",
+    "local-business",
+    "seo-practice",
+    "technical-seo",
+    "schema-org"
+  ],
+  "author": "Pune Brew House",
+  "license": "MIT"
+}
